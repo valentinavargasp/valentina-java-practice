@@ -1,0 +1,6 @@
+# Eclipse & Java build files
+**/bin/
+**/.classpath
+**/.project
+**/.settings/
+**/.metadata/
