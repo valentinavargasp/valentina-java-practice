@@ -4,4 +4,6 @@
 **/.project
 **/.settings/
 **/.metadata/
+### VS Code ###
+.vscode/
 springboot/apis/src/main/resources/application.properties
