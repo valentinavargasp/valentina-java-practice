@@ -1,4 +1,4 @@
-package com.api.apirest_productos;
+package com.api.apirestproductos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
